@@ -55,7 +55,8 @@ Gelen Form 3 Ekranında ise 2 adet kontrol ekranımızı içeren butonlarımız 
 Butona bastığımız 4 adet ldr; 2 üst 2 alt olmak üzere alt üslerin toplamı ve birbirinden çıkarımı sağlanır ve solların birbirinden toplanıp gene keza farkı alınarak ikisi arasında büyük olan tarafa hareketi sağlanmıştır.Tekrar Kullanıcı Değiştir denerek geri dönülebilir.<br><br>
 <img align="left" width="850" height="400" src="https://user-images.githubusercontent.com/43750173/55818911-668aa280-5b00-11e9-9a85-83886f792f5a.PNG" >
 
-<br><h1>Kullanıcı Kontrol<h1>
+<br>
+<h1>Kullanıcı Kontrol</h1>
   <br>
   Form 3 seçilen veya kullanıcı değiştir ile ekrana gelen kullanıcı kontrolü için butona tıklanır.2 adet SCROLL Barlar lada panele veri yollanarak yatay ve dikey eksende hareketi sağlanır
  <img align="center" width="850" height="400" src="https://user-images.githubusercontent.com/43750173/55819169-db5ddc80-5b00-11e9-82ec-255b73de085b.PNG">
